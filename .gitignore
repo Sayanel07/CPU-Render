@@ -1,0 +1,14 @@
+*
+!*/
+!Libs/SDL3/lib/x64/*
+!*.cpp
+!*.hpp
+!*.h
+!*.sln
+!.gitignore
+!Assets/*
+!Assets/Particules/*
+!Assets/Skybox/*
+!*.vcxproj*
+!*.inl
+.idea
